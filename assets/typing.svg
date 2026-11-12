@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="44" viewBox="0 0 640 44" role="img" aria-label="Kubernetes Platform Engineering, DevSecOps and Compliance, AI and LLM Platforms, CI/CD and GitOps, Cloud Cost Optimization, Infrastructure as Code">
+<style>
+@keyframes clip{0%{transform:scaleX(0)}6.667%{transform:scaleX(1)}13.333%{transform:scaleX(1)}16.667%{transform:scaleX(0)}100%{transform:scaleX(0)}}
+@keyframes blink{50%{fill-opacity:0}}
+text{font:700 22px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#4f9dff}
+.car{fill:#38d6c4;opacity:0}
+@keyframes car0{0%{transform:translateX(0);opacity:1}6.667%{transform:translateX(409.2px);opacity:1}13.333%{transform:translateX(409.2px);opacity:1}16.667%{transform:translateX(0);opacity:1}16.677%{opacity:0}100%{transform:translateX(0);opacity:0}}
+#c0 rect{transform:scaleX(0);transform-origin:115.4px 0;animation:clip 24.0s steps(558) 0.0s infinite}
+#k0{animation:car0 24.0s steps(558) 0.0s infinite}
+@keyframes car1{0%{transform:translateX(0);opacity:1}6.667%{transform:translateX(316.8px);opacity:1}13.333%{transform:translateX(316.8px);opacity:1}16.667%{transform:translateX(0);opacity:1}16.677%{opacity:0}100%{transform:translateX(0);opacity:0}}
+#c1 rect{transform:scaleX(0);transform-origin:161.6px 0;animation:clip 24.0s steps(432) 4.0s infinite}
+#k1{animation:car1 24.0s steps(432) 4.0s infinite}
+@keyframes car2{0%{transform:translateX(0);opacity:1}6.667%{transform:translateX(264.0px);opacity:1}13.333%{transform:translateX(264.0px);opacity:1}16.667%{transform:translateX(0);opacity:1}16.677%{opacity:0}100%{transform:translateX(0);opacity:0}}
+#c2 rect{transform:scaleX(0);transform-origin:188.0px 0;animation:clip 24.0s steps(360) 8.0s infinite}
+#k2{animation:car2 24.0s steps(360) 8.0s infinite}
+@keyframes car3{0%{transform:translateX(0);opacity:1}6.667%{transform:translateX(211.2px);opacity:1}13.333%{transform:translateX(211.2px);opacity:1}16.667%{transform:translateX(0);opacity:1}16.677%{opacity:0}100%{transform:translateX(0);opacity:0}}
+#c3 rect{transform:scaleX(0);transform-origin:214.4px 0;animation:clip 24.0s steps(288) 12.0s infinite}
+#k3{animation:car3 24.0s steps(288) 12.0s infinite}
+@keyframes car4{0%{transform:translateX(0);opacity:1}6.667%{transform:translateX(303.6px);opacity:1}13.333%{transform:translateX(303.6px);opacity:1}16.667%{transform:translateX(0);opacity:1}16.677%{opacity:0}100%{transform:translateX(0);opacity:0}}
+#c4 rect{transform:scaleX(0);transform-origin:168.2px 0;animation:clip 24.0s steps(414) 16.0s infinite}
+#k4{animation:car4 24.0s steps(414) 16.0s infinite}
+@keyframes car5{0%{transform:translateX(0);opacity:1}6.667%{transform:translateX(290.4px);opacity:1}13.333%{transform:translateX(290.4px);opacity:1}16.667%{transform:translateX(0);opacity:1}16.677%{opacity:0}100%{transform:translateX(0);opacity:0}}
+#c5 rect{transform:scaleX(0);transform-origin:174.8px 0;animation:clip 24.0s steps(396) 20.0s infinite}
+#k5{animation:car5 24.0s steps(396) 20.0s infinite}
+</style>
+<clipPath id="c0"><rect x="115.4" y="0" width="411.2" height="44"/></clipPath>
+<text x="115.4" y="30" textLength="409.2" clip-path="url(#c0)">Kubernetes Platform Engineering</text>
+<rect id="k0" class="car" x="118.4" y="8" width="3" height="28"/>
+<clipPath id="c1"><rect x="161.6" y="0" width="318.8" height="44"/></clipPath>
+<text x="161.6" y="30" textLength="316.8" clip-path="url(#c1)">DevSecOps and Compliance</text>
+<rect id="k1" class="car" x="164.6" y="8" width="3" height="28"/>
+<clipPath id="c2"><rect x="188.0" y="0" width="266.0" height="44"/></clipPath>
+<text x="188.0" y="30" textLength="264.0" clip-path="url(#c2)">AI and LLM Platforms</text>
+<rect id="k2" class="car" x="191.0" y="8" width="3" height="28"/>
+<clipPath id="c3"><rect x="214.4" y="0" width="213.2" height="44"/></clipPath>
+<text x="214.4" y="30" textLength="211.2" clip-path="url(#c3)">CI/CD and GitOps</text>
+<rect id="k3" class="car" x="217.4" y="8" width="3" height="28"/>
+<clipPath id="c4"><rect x="168.2" y="0" width="305.6" height="44"/></clipPath>
+<text x="168.2" y="30" textLength="303.6" clip-path="url(#c4)">Cloud Cost Optimization</text>
+<rect id="k4" class="car" x="171.2" y="8" width="3" height="28"/>
+<clipPath id="c5"><rect x="174.8" y="0" width="292.4" height="44"/></clipPath>
+<text x="174.8" y="30" textLength="290.4" clip-path="url(#c5)">Infrastructure as Code</text>
+<rect id="k5" class="car" x="177.8" y="8" width="3" height="28"/>
+</svg>
